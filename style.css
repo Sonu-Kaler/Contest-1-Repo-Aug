@@ -1,0 +1,43 @@
+.top{
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.top h1{
+    text-decoration: underline;
+}
+
+.top p{
+    font-size: 20px;
+
+}
+
+.top a{
+    color: black;
+}
+
+
+.mid{
+    /* border: 1px solid black; */
+    padding: 20px;
+}
+
+.mid h2{
+    text-decoration: underline;
+}
+
+.mid a{
+    color: black;
+}
+
+.end{
+    padding: 20px;
+}
+
+.end h2{
+    text-decoration: underline;
+}
+
+.end ol{
+    margin-left: -20px;
+}
